@@ -161,6 +161,7 @@ body{
   margin-top: 5%;
 }
 
+
 /* MEDIA QUERIES */
 
 @media(max-width: 1024px){
@@ -177,7 +178,7 @@ body{
   .group{
     border: none;
   }
-  
+
   .games-wrapper{
     width: 90%;
   }
